@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Financial and Algorithmic Trading using Python, as well as BackEnd Development**
 
+- 💬 Feel free to contact me **ioritzeguileor@gmail.com**
+
 - 📫 My Portfolio **https://ioritzeguileorcv.vercel.app/**
 
 - ⚡ Fun fact **Have played Rugby for 10 years, as well as played at the State and National level in the USA.**
