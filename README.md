@@ -2,7 +2,7 @@
 
 - 🔭 Current Project: [Personal web portfolio made using NextJS](https://ioritzeguileorcv.vercel.app/)
 
-- 🌱 I’m currently learning **Financial and Algorithmic Trading using Python, as well as BackEnd Development**
+- 🌱 I’m currently learning **Machine Learning, as well as BackEnd Development**
 
 - 💬 Feel free to contact me **ioritzeguileor@gmail.com**
 
