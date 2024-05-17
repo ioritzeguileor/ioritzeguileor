@@ -1,8 +1,8 @@
-<h3 align="center">I'm Ioritz a CS Engineering Student at the University of Florida from Spain!</h3>
+<h3 align="center">I'm Ioritz a Data Science Student at the University of Florida from Spain!</h3>
 
-- 🔭 Current Project: [Personal web portfolio made using NextJS](https://ioritzeguileorcv.vercel.app/)
+- 🔭 Current Project: [Implementing a SOC and Honeynet in Azure](https://ioritzeguileorcv.vercel.app/)
 
-- 🌱 I’m currently learning **Machine Learning, as well as BackEnd Development**
+- 🌱 I’m currently learning **Cybersecurity Fundamentals and Studying for the CompTIA Security+ Cert**
 
 - 💬 Feel free to contact me **ioritzeguileor@gmail.com**
 
