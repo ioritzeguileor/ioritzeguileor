@@ -1,6 +1,6 @@
 <h3 align="center">I'm Ioritz a Data Science Student at the University of Florida from Spain!</h3>
 
-- 🔭 Current Project: [Implementing a SOC and Honeynet in Azure](https://github.com/ioritzeguileor/FailedRDP_Honeypot)
+- 🔭 Current Project: [Implementing a SOC and Honeypot in Azure](https://github.com/ioritzeguileor/FailedRDP_Honeypot)
 
 - 🌱 I’m currently learning **Cybersecurity Fundamentals and Studying for the CompTIA Security+ Cert**
 
