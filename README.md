@@ -2,7 +2,7 @@
 
 - 🔭 Current Project: [Implementing a SOC and Honeypot in Azure](https://github.com/ioritzeguileor/FailedRDP_Honeypot)
 
-- 🌱 I’m currently learning **Cybersecurity Fundamentals and Studying for the CompTIA Network+ Cert**
+- 🌱 I’m currently learning **PenTesting Fundamentals and Studying for the CompTIA Network+ Cert**
 
 - 💬 Feel free to contact me **ioritzeguileor@gmail.com**
 
