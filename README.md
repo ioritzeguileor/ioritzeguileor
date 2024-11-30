@@ -8,8 +8,6 @@
 
 - 📫 My Portfolio **https://ioritzeguileor.com/**
 
-- ⚡ Fun fact **Have played Rugby for 10 years, as well as played at the State and National level in the USA.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ioritzeguileor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioritzeguileor" height="30" width="40" /></a>
