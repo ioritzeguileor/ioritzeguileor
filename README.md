@@ -1,4 +1,4 @@
-<h3 align="center">Ioritz Eguileor</h3>
+<h3 align="center">Ioritz Eguileor | Data Science @ UF | Aspiring SOC Analyst</h3>
 
 - 🔭 Latest Project: [Splunk Home Lab-Attack and Defense](https://github.com/ioritzeguileor/Home-Lab-Attack-and-Defense)
 
