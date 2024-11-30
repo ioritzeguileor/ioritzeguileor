@@ -1,4 +1,4 @@
-<h3 align="center">I'm Ioritz a Data Science Student at the University of Florida from Spain!</h3>
+<h3 align="center">Ioritz Eguileor</h3>
 
 - 🔭 Latest Project: [Splunk Home Lab-Attack and Defense](https://github.com/ioritzeguileor/Home-Lab-Attack-and-Defense)
 
