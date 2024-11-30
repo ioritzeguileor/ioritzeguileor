@@ -1,8 +1,8 @@
 <h3 align="center">I'm Ioritz a Data Science Student at the University of Florida from Spain!</h3>
 
-- 🔭 Current Project: [Implementing a SOC and Honeypot in Azure](https://github.com/ioritzeguileor/FailedRDP_Honeypot)
+- 🔭 Latest Project: [EDR- Attack and Defense on an Office Home Lab](https://github.com/ioritzeguileor/FailedRDP_Honeypot)
 
-- 🌱 I’m currently learning **PenTesting Fundamentals and Studying for the CompTIA Network+ Cert**
+- 🌱 I’m currently learning **PenTesting Fundamentals and Studying for the CDSA Hack the Box exam**
 
 - 💬 Feel free to contact me **ioritzeguileor@gmail.com**
 
