@@ -1,6 +1,6 @@
 <h3 align="center">I'm Ioritz a Data Science Student at the University of Florida from Spain!</h3>
 
-- 🔭 Latest Project: [EDR- Attack and Defense on an Office Home Lab](https://github.com/ioritzeguileor/FailedRDP_Honeypot)
+- 🔭 Latest Project: [Splunk Home Lab-Attack and Defense](https://github.com/ioritzeguileor/Home-Lab-Attack-and-Defense)
 
 - 🌱 I’m currently learning **PenTesting Fundamentals and Studying for the CDSA Hack the Box exam**
 
