@@ -17,7 +17,7 @@ Data Science student at the University of Florida with a profound interest in te
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-007ACC?style=for-the-badge&logo=amazon&logoColor=white" />
 </div>
 
 
