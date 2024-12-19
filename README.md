@@ -8,7 +8,7 @@ Data Science student at the University of Florida with a profound interest in te
 
 - 💬 Feel free to contact me **ioritzeguileor@gmail.com**
 
-- 📫 My Portfolio **https://ioritzeguileor.com/**
+- 📫 My Personal Website **https://ioritzeguileor.com/**
 </br>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
